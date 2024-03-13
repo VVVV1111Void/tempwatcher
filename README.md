@@ -1,0 +1,2 @@
+# tempwatcher
+CPU Temperature watcher
